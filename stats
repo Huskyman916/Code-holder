@@ -15041,4 +15041,466 @@
             }
         ]
     }
-}
+},
+    "Warewolf Foxy": {
+        "Type": "Slow Single",
+        "Image": "rbxassetid://74116194307542",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Offset": 0.65,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 350,
+                "Cooldown": 1.5,
+                "Slow": 1,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 800,
+                "Range": 16,
+                "Damage": 400,
+                "Cooldown": 1,
+                "Slow": 2,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 1200,
+                "Range": 17,
+                "Damage": 450,
+                "Cooldown": 0.8,
+                "Slow": 2,
+                "SlowTime": 1.5
+            }
+        ]
+    },
+    "Pixel Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://83088236779663",
+        "Rarity": "FN MODDED",
+        "PlacePrice": 9000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 9,
+                "Damage": 140,
+                "Cooldown": 0.08
+            },
+            {
+                "Price": 6500,
+                "Range": 12,
+                "Damage": 250,
+                "Cooldown": 0.07
+            },
+            {
+                "Price": 14500,
+                "Range": 13,
+                "Damage": 400,
+                "Cooldown": 0.06
+            },
+            {
+                "Price": 15500,
+                "Range": 14,
+                "Damage": 665,
+                "Cooldown": 0.04
+            }
+        ]
+    },
+    "Pixel Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://79391071840406",
+        "Rarity": "FN MODDED",
+        "PlacePrice": 3500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 5000,
+                "Range": 15,
+                "Damage": 1500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 8500,
+                "Range": 18,
+                "Damage": 2600,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 15000,
+                "Range": 18,
+                "Damage": 3600,
+                "Cooldown": 1.3
+            }
+        ]
+    },
+    "Pixel Freddy": {
+        "Type": "Support",
+        "Image": "rbxassetid://128710227274466",
+        "Rarity": "FN MODDED",
+        "PlacePrice": 4000,
+        "NoEnemyAttack": true,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.12
+            },
+            {
+                "Price": 1700,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.20
+            },
+            {
+                "Price": 2200,
+                "Range": 16,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.28
+            },
+            {
+                "Price": 2500,
+                "Range": 16,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.36
+            }
+        ]
+    },
+    "Pixel Foxy": {
+        "Type": "Slow Single",
+        "Image": "rbxassetid://133805408092056",
+        "Rarity": "FN MODDED",
+        "PlacePrice": 12000,
+        "Offset": 0.65,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 13,
+                "Damage": 5000,
+                "Cooldown": 1.5,
+                "Slow": 2,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 13000,
+                "Range": 17,
+                "Damage": 5500,
+                "Cooldown": 1,
+                "Slow": 2,
+                "SlowTime": 2
+            },
+            {
+                "Price": 18000,
+                "Range": 26,
+                "Damage": 6000,
+                "Cooldown": 0.8,
+                "Slow": 3,
+                "SlowTime": 3
+            }
+        ]
+    },
+    "Pixel Shadow Freddy": {
+        "Type": "AOE Poison",
+        "Image": "rbxassetid://85551297349853",
+        "Rarity": "FN MODDED",
+        "PlacePrice": 20000,
+        "Max": 2,
+        "Passive": {"Name": "Darkness", "Description": "Deals an extra 30% damage in poison"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.4,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 350,
+                "Cooldown": 0.1,
+                "Poison": 15,
+                "PoisonLength": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 17,
+                "Damage": 450,
+                "Cooldown": 0.08,
+                "Poison": 20,
+                "PoisonLength": 3
+            },
+            {
+                "Price": 30000,
+                "Range": 20,
+                "Damage": 550,
+                "Cooldown": 0.06,
+                "Poison": 25,
+                "PoisonLength": 3
+            },
+            {
+                "Price": 35000,
+                "Range": 25,
+                "Damage": 600,
+                "Cooldown": 0.04,
+                "Poison": 30,
+                "PoisonLength": 3
+            }
+        ]
+    },
+    "Glamrock Foxy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://137986219170501",
+        "Rarity": "Reject",
+        "PlacePrice": 18000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 5500,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 6500,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 17300,
+                "Range": 24,
+                "Damage": 7500,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 20000,
+                "Range": 25,
+                "Damage": 12000,
+                "Cooldown": 1.2
+            }
+
+        ]
+    },
+    "WheelChair Burntrap": {
+        "Type": "Splash + Old",
+        "Image": "rbxassetid://96788780205690",
+        "Rarity": "Apex",
+        "PlacePrice": 20000,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "My Back Is Broken", "Description": "Just sits there."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 20000,
+                "Cooldown": 2.3,
+                "Bleed": 0.2,
+                "BleedTime": 9
+            },
+            {
+                "Price": 22000,
+                "Range": 25,
+                "Damage": 35000,
+                "Cooldown": 2.2,
+                "Bleed": 0.2,
+                "BleedTime": 9
+            },
+            {
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 40000,
+                "Cooldown": 2.1,
+                "Bleed": 0.2,
+                "BleedTime": 9
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 50000,
+                "Cooldown": 2,
+                "Bleed": 0.2,
+                "BleedTime": 9
+            }
+        ]
+    },
+ "Monochrome Freddy": {
+        "Type": "Slash",
+        "Image": "rbxassetid://73383241460208",
+        "Rarity": "Forgotten",
+        "PlacePrice": 6550,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 6000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 12000,
+                "Range": 24,
+                "Damage": 7000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 14000,
+                "Range": 25,
+                "Damage": 8000,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Funtime Bonnie": {
+        "Type": "Splash",
+        "Image": "rbxassetid://127604914103274",
+        "Rarity": "Reject",
+        "PlacePrice": 9000,
+        "Offset": 0.3,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 8000,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 600,
+                "Range": 18,
+                "Damage": 9000,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 800,
+                "Range": 19,
+                "Damage": 10000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 12500,
+                "Cooldown": 0.8
+            }
+        ]
+    },
+    "Charlie Emily": {
+        "Type": "Slow + Single",
+        "Image": "rbxassetid://114634057020074",
+        "Rarity": "Forgotten",
+        "PlacePrice": 750,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 0.1,
+                "Slow": 0.7
+            },
+            {
+                "Price": 1000,
+                "Range": 17,
+                "Damage": 150,
+                "Cooldown": 0.1,
+                "Slow": 0.68
+            },
+            {
+                "Price": 1400,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 0.1,
+                "Slow": 0.66
+            },
+            {
+                "Price": 1800,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.1,
+                "Slow": 0.64
+            },
+            {
+                "Price": 2000,
+                "Range": 22,
+                "Damage": 250,
+                "Cooldown": 0.1,
+                "Slow": 0.6
+            }
+        ]
+    }
